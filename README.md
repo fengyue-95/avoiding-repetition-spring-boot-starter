@@ -1,4 +1,4 @@
-# avoidingRepetition-spring-boot-starter
+# avoiding-repetition-spring-boot-starter
 
 2021-04-23 深夜
 
