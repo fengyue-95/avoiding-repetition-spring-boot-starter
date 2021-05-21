@@ -13,18 +13,12 @@
 
 看了很多的博客，都是采用AOP去实现,为了防止重复提交一般都是针对web请求，采用拦截器处理足够用了。
 
-SpringBoot利用AOP防止请求重复提交
-
-spring boot 防止重复提交
-
-Spring Boot 如何防止重复提交？
-
 基本配置
 
 cache.host=127.0.0.1
 cache.port=6379
 maven 依赖
-根据当前spring 的版本进行选择合适的依赖 redisson-spring-data 可以具体看官方文档。 redisson-spring-data module if necessary to support required Spring Boot version:
+根据当前spring 的版本进行选择合适的依赖 redisson-spring-data 可以具体看官方文档。
 
  <dependency>
    <groupId>org.redisson</groupId>
