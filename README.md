@@ -25,8 +25,6 @@ maven 依赖
    <artifactId>redisson-spring-boot-starter</artifactId>
    <version>3.15.3</version>
 </dependency>
-更多配置可以参考链接
-https://github.com/redisson/redisson/tree/master/redisson-spring-boot-starter
 
 注解设计
 尝试获取锁的等待时间、锁的过期时间。
